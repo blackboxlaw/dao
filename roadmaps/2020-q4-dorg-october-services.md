@@ -16,6 +16,8 @@ October 1 - 31, 2020
 #### Tech
 1. [Web3API JS Client Browser Support](https://github.com/Web3-API/prototype/issues/28)  
 2. [Web3API Manifest's Schema Tooling](https://github.com/Web3-API/prototype/issues/17)  
+3. [Web3API Modularization](https://github.com/Web3-API/prototype/issues/58)
+4. [JavaScript Web3API](https://github.com/Web3-API/prototype/issues/59)
 
 #### Biz Dev
 1. OKR Development
