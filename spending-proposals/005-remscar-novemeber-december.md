@@ -2,7 +2,7 @@
 
 | Funds Requested | Time Period | Actual Effort |
 |-|-|-|
-| 6 `W3API` | Nov 1 - Dec 31, 2020 | 10 hours |
+| 15 `W3API` | Nov 1 - Dec 31, 2020 | 10 hours |
 
 ## Summary
 
